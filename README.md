@@ -1,2 +1,2 @@
-# ChatGPT_API
-Base-level chatbot using OpenAI's API
+# OpenAI_API_Embeddings
+Using OpenAI and TSNE to create embeddings
